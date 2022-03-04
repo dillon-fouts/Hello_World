@@ -10,7 +10,7 @@ Hello World Sample
 ## Description
 Look over the two links provided in depthly to learn how github works. Look up examples projects to help you gain knowledge.
 ## How to Run Program
--n ot sure how to run a program still
+-not sure how to run a program still
 ## Files Used
 - No files used
 - Don't understand how to use a file if needed
