@@ -8,13 +8,13 @@
 ## Project Title
 Hello World Sample
 ## Description
-kdkdkdk
+Look over the two links provided in depthly to learn how github works.
 ## How to Run Program
 dkdkdkdkd
 ## Files Used
 -
 -
 ## Additional Documentation
-kdkd
+No additional Documentation at this moment.  ~~ ~~Practice Strikethough ~~ ~~
 ## Cersioning
 kdkd
