@@ -15,6 +15,6 @@ dkdkdkdkd
 -
 -
 ## Additional Documentation
-No additional Documentation at this moment.  ~~ ~~Practice Strikethough~~ ~~
+No additional Documentation at this moment.  ~~~~Practice Strikethough~~~~
 ## Cersioning
 kdkd
