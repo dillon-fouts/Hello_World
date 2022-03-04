@@ -1,2 +1,7 @@
 # Table of contents
-## TABLE OF CONTENTS
+## Project Title
+## Description
+## How to run Program
+## Files used
+## Additional Documentation
+## Versioning
